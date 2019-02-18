@@ -1,3 +1,3 @@
 # hello-world
-This is my "sandbox" repository
-My name is Chris Blakesley and I am learning new things
+This is my "sandbox" repository and this is a test.
+I repeat, this is a test.
